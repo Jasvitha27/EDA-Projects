@@ -16,6 +16,9 @@ Analysis of student academic scores and factors affecting performance.
 
 (More projects coming soon...)
 
+### Week 2 - Google Play Store
+Analysis of app ratings, installs, reviews, and pricing trends.
+
 ---
 
 These projects demonstrate data cleaning, visualization, and analytical skills.
