@@ -19,3 +19,15 @@ Analysis of student academic scores and factors affecting performance.
 ---
 
 These projects demonstrate data cleaning, visualization, and analytical skills.
+
+---
+
+## 🚀 How to Run the Projects
+
+1. Clone the repository:
+   git clone https://github.com/Jasvitha27/EDA-Projects.git
+
+2. Install required libraries:
+   pip install pandas numpy matplotlib seaborn
+
+3. Open the notebook using Jupyter Notebook.
