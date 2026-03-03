@@ -19,6 +19,12 @@ Analysis of student academic scores and factors affecting performance.
 ### Week 2 - Google Play Store
 Analysis of app ratings, installs, reviews, and pricing trends.
 
+### Week 3 - Netflix
+Exploratory analysis of Netflix content trends, genres, and release patterns.
+
+### Week 4 - Heart Disease Analysis
+Analysis of medical attributes to identify patterns associated with heart disease risk.
+
 ---
 
 These projects demonstrate data cleaning, visualization, and analytical skills.
